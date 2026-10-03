@@ -1,0 +1,11 @@
+{
+	"id": "vs-test-manager",
+	"name": "VS Test Manager",
+	"version": "0.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Test Management System + Requirements Management System for for IT product development.",
+	"author": "VS",
+	"authorUrl": "https://github.com/vsKhludnev",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
